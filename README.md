@@ -6,26 +6,26 @@ For Simplex Method, please refer to this [repo](https://github.com/SiMoM0/linear
 
 ### Minimum Spanning Tree
 
-* [Prim-Dijksta]()
-* [Kruskal]()
+* [Prim-Dijksta](https://github.com/SiMoM0/OperationsResearch/blob/master/MST/Prim-Dijkstra.ipynb)
+* [Kruskal](https://github.com/SiMoM0/OperationsResearch/blob/master/MST/Kruskal.ipynb)
 
 ### Shortest Path Problem
 
-* [Pathfinding]()
-* [Dijkstra]()
-* [Floyd-Warshall]()
+* [Pathfinding](https://github.com/SiMoM0/OperationsResearch/blob/master/SPP/Pathfinding.ipynb)
+* [Dijkstra](https://github.com/SiMoM0/OperationsResearch/blob/master/SPP/Dijkstra.ipynb)
+* [Floyd-Warshall](https://github.com/SiMoM0/OperationsResearch/blob/master/SPP/Floyd-Warshall.ipynb)
 
 ### Project Planning
 
-* [CPM Algorithm]()
+* [CPM Algorithm](https://github.com/SiMoM0/OperationsResearch/blob/master/ProjectPlanning/CPMalgorithm.ipynb)
 
 ### Flow Problems
 
-* [Ford-Fulkerson]()
+* [Ford-Fulkerson](https://github.com/SiMoM0/OperationsResearch/blob/master/FlowProblems/Ford-Fulkerson.ipynb)
 
 ### Knapsack Problem
 
-* [Dynamic Algorithm]()
+* [Dynamic Algorithm](https://github.com/SiMoM0/OperationsResearch/blob/master/KnapsackProblem/DynamicKP.ipynb)
 
 ### Requirements
 The following python packages are required in order to execute the code:
